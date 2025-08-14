@@ -25,4 +25,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/kil23/Leetcode-Problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kil23/Leetcode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/kil23/Leetcode-Problems/tree/master/2087-confirmation-rate) |
+## Math
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
+## String
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
+## Simulation
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
 <!---LeetCode Topics End-->
