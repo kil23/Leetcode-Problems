@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kil23/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
 ## Simulation
 |  |
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kil23/Leetcode-Problems/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kil23/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
