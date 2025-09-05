@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/kil23/Leetcode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kil23/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/kil23/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kil23/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/kil23/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
