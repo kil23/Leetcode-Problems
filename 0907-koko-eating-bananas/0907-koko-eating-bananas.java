@@ -10,9 +10,13 @@ class Solution {
 
     public int minEatingSpeed(int[] piles, int h) {
         int low = 0;
-        int high = Integer.MAX_VALUE;
+        int high = Integer.MIN_VALUE;
         int ans = -1;
 
+        for(int i=0; i<piles.length; i++){
+            high = Math.max(high, piles[i]);
+        }
+        
         while(low<=high) {
             int mid = low + (high - low)/2;
             if(isPossible(mid, piles, h)) {
