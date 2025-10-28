@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/kil23/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kil23/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/kil23/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kil23/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kil23/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kil23/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kil23/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/kil23/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
 | ------- |
