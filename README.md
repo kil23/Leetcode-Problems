@@ -126,11 +126,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kil23/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kil23/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Sliding Window
 |  |
@@ -152,9 +154,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
