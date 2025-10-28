@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kil23/Leetcode-Problems/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/kil23/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kil23/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kil23/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kil23/Leetcode-Problems/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/kil23/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/kil23/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
