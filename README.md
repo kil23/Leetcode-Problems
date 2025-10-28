@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/kil23/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kil23/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1127-last-stone-weight](https://github.com/kil23/Leetcode-Problems/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/kil23/Leetcode-Problems/tree/master/1137-height-checker) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/kil23/Leetcode-Problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1646-kth-missing-positive-number](https://github.com/kil23/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/kil23/Leetcode-Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
+| [1137-height-checker](https://github.com/kil23/Leetcode-Problems/tree/master/1137-height-checker) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/kil23/Leetcode-Problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 ## Counting
 |  |
@@ -174,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/kil23/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/kil23/Leetcode-Problems/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
