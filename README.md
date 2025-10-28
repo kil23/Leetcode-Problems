@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/kil23/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
+| [1448-maximum-69-number](https://github.com/kil23/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
@@ -140,4 +141,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/kil23/Leetcode-Problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
+| [1448-maximum-69-number](https://github.com/kil23/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
