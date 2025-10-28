@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kil23/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kil23/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kil23/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kil23/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kil23/Leetcode-Problems/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/kil23/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
