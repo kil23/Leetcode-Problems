@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/kil23/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/kil23/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kil23/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2634-minimum-common-value](https://github.com/kil23/Leetcode-Problems/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kil23/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kil23/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kil23/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/kil23/Leetcode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2634-minimum-common-value](https://github.com/kil23/Leetcode-Problems/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kil23/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/kil23/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2634-minimum-common-value](https://github.com/kil23/Leetcode-Problems/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/kil23/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kil23/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/kil23/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [2634-minimum-common-value](https://github.com/kil23/Leetcode-Problems/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
