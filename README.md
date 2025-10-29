@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kil23/Leetcode-Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kil23/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Counting Sort
 |  |
