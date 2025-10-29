@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kil23/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kil23/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0792-binary-search](https://github.com/kil23/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kil23/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kil23/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kil23/Leetcode-Problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -272,6 +274,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kil23/Leetcode-Problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
