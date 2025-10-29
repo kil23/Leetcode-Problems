@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kil23/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/kil23/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/kil23/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/kil23/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/kil23/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/kil23/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/kil23/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kil23/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kil23/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/kil23/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
