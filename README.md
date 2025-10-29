@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/kil23/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1833-find-the-highest-altitude](https://github.com/kil23/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/kil23/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kil23/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2634-minimum-common-value](https://github.com/kil23/Leetcode-Problems/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kil23/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kil23/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -265,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/kil23/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
+## Matrix
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
