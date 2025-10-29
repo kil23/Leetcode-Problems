@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/kil23/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/kil23/Leetcode-Problems/tree/master/1547-destination-city) |
 | [1646-kth-missing-positive-number](https://github.com/kil23/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1833-find-the-highest-altitude](https://github.com/kil23/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/kil23/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kil23/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kil23/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -253,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kil23/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/kil23/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
