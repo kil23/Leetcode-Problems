@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/kil23/Leetcode-Problems/tree/master/1137-height-checker) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/kil23/Leetcode-Problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1319-unique-number-of-occurrences](https://github.com/kil23/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kil23/Leetcode-Problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kil23/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/kil23/Leetcode-Problems/tree/master/1547-destination-city) |
 | [1646-kth-missing-positive-number](https://github.com/kil23/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kil23/Leetcode-Problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kil23/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -270,5 +272,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kil23/Leetcode-Problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
