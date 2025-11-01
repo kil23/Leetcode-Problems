@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kil23/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kil23/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/kil23/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kil23/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kil23/Leetcode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kil23/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kil23/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -294,4 +296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0542-01-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kil23/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
