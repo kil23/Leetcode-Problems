@@ -19,6 +19,9 @@ class Solution {
         }
         visited[i][j] = true;
 
-        return 1 + dfs(i+1, j, grid, visited) + dfs(i-1, j, grid, visited) + dfs(i, j+1, grid, visited) + dfs(i, j-1, grid, visited);
+        return 1 + dfs(i+1, j, grid, visited) 
+                 + dfs(i-1, j, grid, visited) 
+                 + dfs(i, j+1, grid, visited) 
+                 + dfs(i, j-1, grid, visited);
     }
 }
