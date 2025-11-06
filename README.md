@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0735-asteroid-collision](https://github.com/kil23/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/kil23/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
 ## Array
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/kil23/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kil23/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kil23/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0983-validate-stack-sequences](https://github.com/kil23/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1127-last-stone-weight](https://github.com/kil23/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/kil23/Leetcode-Problems/tree/master/1137-height-checker) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/kil23/Leetcode-Problems/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/kil23/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/kil23/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kil23/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/kil23/Leetcode-Problems/tree/master/1666-make-the-string-great) |
 ## Binary Search
