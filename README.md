@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kil23/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/kil23/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kil23/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/kil23/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kil23/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/kil23/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kil23/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/kil23/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kil23/Leetcode-Problems/tree/master/0217-contains-duplicate) |
