@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kil23/Leetcode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2245-destroying-asteroids](https://github.com/kil23/Leetcode-Problems/tree/master/2245-destroying-asteroids) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/kil23/Leetcode-Problems/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kil23/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/kil23/Leetcode-Problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2634-minimum-common-value](https://github.com/kil23/Leetcode-Problems/tree/master/2634-minimum-common-value) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/kil23/Leetcode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kil23/Leetcode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2245-destroying-asteroids](https://github.com/kil23/Leetcode-Problems/tree/master/2245-destroying-asteroids) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/kil23/Leetcode-Problems/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/kil23/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kil23/Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kil23/Leetcode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/kil23/Leetcode-Problems/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Depth-First Search
 |  |
 | ------- |
