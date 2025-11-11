@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kil23/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kil23/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/kil23/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kil23/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kil23/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/kil23/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kil23/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kil23/Leetcode-Problems/tree/master/0278-first-bad-version) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kil23/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kil23/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kil23/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1833-find-the-highest-altitude](https://github.com/kil23/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
 |  |
