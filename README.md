@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2245-destroying-asteroids](https://github.com/kil23/Leetcode-Problems/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/kil23/Leetcode-Problems/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kil23/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/kil23/Leetcode-Problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/kil23/Leetcode-Problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2634-minimum-common-value](https://github.com/kil23/Leetcode-Problems/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kil23/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kil23/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kil23/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kil23/Leetcode-Problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/kil23/Leetcode-Problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2427-first-letter-to-appear-twice](https://github.com/kil23/Leetcode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/kil23/Leetcode-Problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2634-minimum-common-value](https://github.com/kil23/Leetcode-Problems/tree/master/2634-minimum-common-value) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/kil23/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kil23/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/kil23/Leetcode-Problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Queue
 |  |
 | ------- |
