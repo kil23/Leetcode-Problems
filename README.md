@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/kil23/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/kil23/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kil23/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/kil23/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/kil23/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/kil23/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/kil23/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kil23/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kil23/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/kil23/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kil23/Leetcode-Problems/tree/master/0162-find-peak-element) |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kil23/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/kil23/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/kil23/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kil23/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kil23/Leetcode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/kil23/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kil23/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
