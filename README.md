@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/kil23/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1254-deepest-leaves-sum](https://github.com/kil23/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/kil23/Leetcode-Problems/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/kil23/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1254-deepest-leaves-sum](https://github.com/kil23/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/kil23/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1254-deepest-leaves-sum](https://github.com/kil23/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kil23/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/kil23/Leetcode-Problems/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/kil23/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kil23/Leetcode-Problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kil23/Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/kil23/Leetcode-Problems/tree/master/2445-reachable-nodes-with-restrictions) |
