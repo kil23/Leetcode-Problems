@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kil23/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kil23/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kil23/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kil23/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kil23/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kil23/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/kil23/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kil23/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kil23/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/kil23/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kil23/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kil23/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kil23/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/kil23/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kil23/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
