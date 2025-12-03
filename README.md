@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/kil23/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/kil23/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0408-valid-word-abbreviation](https://github.com/kil23/Leetcode-Problems/tree/master/0408-valid-word-abbreviation) |
 | [0782-jewels-and-stones](https://github.com/kil23/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/kil23/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/kil23/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kil23/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0408-valid-word-abbreviation](https://github.com/kil23/Leetcode-Problems/tree/master/0408-valid-word-abbreviation) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/kil23/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
