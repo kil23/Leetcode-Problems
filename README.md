@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/kil23/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kil23/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kil23/Leetcode-Problems/tree/master/0415-add-strings) |
 | [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
 | [1448-maximum-69-number](https://github.com/kil23/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 ## String
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0408-valid-word-abbreviation](https://github.com/kil23/Leetcode-Problems/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/kil23/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/kil23/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kil23/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/kil23/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/kil23/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kil23/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kil23/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/kil23/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/kil23/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
