@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/kil23/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/kil23/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kil23/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0418-sentence-screen-fitting](https://github.com/kil23/Leetcode-Problems/tree/master/0418-sentence-screen-fitting) |
 | [0782-jewels-and-stones](https://github.com/kil23/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/kil23/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kil23/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0418-sentence-screen-fitting](https://github.com/kil23/Leetcode-Problems/tree/master/0418-sentence-screen-fitting) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kil23/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kil23/Leetcode-Problems/tree/master/0695-max-area-of-island) |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/kil23/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0418-sentence-screen-fitting](https://github.com/kil23/Leetcode-Problems/tree/master/0418-sentence-screen-fitting) |
 | [0542-01-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0542-01-matrix) |
 ## Trie
 |  |
