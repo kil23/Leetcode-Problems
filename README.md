@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kil23/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/kil23/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kil23/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kil23/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/kil23/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kil23/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kil23/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/kil23/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/kil23/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/kil23/Leetcode-Problems/tree/master/0408-valid-word-abbreviation) |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kil23/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/kil23/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kil23/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/kil23/Leetcode-Problems/tree/master/0735-asteroid-collision) |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kil23/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/kil23/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/kil23/Leetcode-Problems/tree/master/2427-first-letter-to-appear-twice) |
