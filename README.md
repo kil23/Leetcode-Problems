@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/kil23/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kil23/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/kil23/Leetcode-Problems/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1041-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1041-robot-bounded-in-circle) |
 | [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
 | [1448-maximum-69-number](https://github.com/kil23/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 ## String
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/kil23/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/kil23/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
+| [1041-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1041-robot-bounded-in-circle) |
 | [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kil23/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1547-destination-city](https://github.com/kil23/Leetcode-Problems/tree/master/1547-destination-city) |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/kil23/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/kil23/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
+| [1041-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1041-robot-bounded-in-circle) |
 | [1119-robot-bounded-in-circle](https://github.com/kil23/Leetcode-Problems/tree/master/1119-robot-bounded-in-circle) |
 | [2470-removing-stars-from-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Array
