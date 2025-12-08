@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/kil23/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kil23/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0983-validate-stack-sequences](https://github.com/kil23/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/kil23/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/kil23/Leetcode-Problems/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/kil23/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/kil23/Leetcode-Problems/tree/master/1137-height-checker) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/kil23/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/kil23/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kil23/Leetcode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/kil23/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/kil23/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kil23/Leetcode-Problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/kil23/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kil23/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/kil23/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kil23/Leetcode-Problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kil23/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
