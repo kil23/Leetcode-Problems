@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/kil23/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/kil23/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kil23/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kil23/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kil23/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kil23/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kil23/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kil23/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kil23/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/kil23/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0418-sentence-screen-fitting](https://github.com/kil23/Leetcode-Problems/tree/master/0418-sentence-screen-fitting) |
@@ -421,4 +423,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kil23/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kil23/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
