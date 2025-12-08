@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/kil23/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kil23/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kil23/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/kil23/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0383-ransom-note](https://github.com/kil23/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/kil23/Leetcode-Problems/tree/master/0408-valid-word-abbreviation) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/kil23/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/kil23/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0418-sentence-screen-fitting](https://github.com/kil23/Leetcode-Problems/tree/master/0418-sentence-screen-fitting) |
 | [0542-01-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0542-01-matrix) |
