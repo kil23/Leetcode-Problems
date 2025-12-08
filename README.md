@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/kil23/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/kil23/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/kil23/Leetcode-Problems/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-validate-stack-sequences](https://github.com/kil23/Leetcode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kil23/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/kil23/Leetcode-Problems/tree/master/1666-make-the-string-great) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/kil23/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/kil23/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
