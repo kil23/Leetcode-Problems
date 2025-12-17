@@ -6,7 +6,7 @@ class Solution {
         opt[1] = 1;
 
         for(int i=2; i<=n; i++) {
-            opt[i] = opt[i-1] + opt[i-2];
+            opt[i] = opt[i-1] + opt[i-2]; 
         }
 
         return opt[n];
