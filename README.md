@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/kil23/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kil23/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kil23/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kil23/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/kil23/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kil23/Leetcode-Problems/tree/master/0198-house-robber) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/kil23/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/kil23/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/kil23/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kil23/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kil23/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kil23/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -449,4 +451,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kil23/Leetcode-Problems/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kil23/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
