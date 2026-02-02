@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/kil23/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kil23/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/kil23/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kil23/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kil23/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
